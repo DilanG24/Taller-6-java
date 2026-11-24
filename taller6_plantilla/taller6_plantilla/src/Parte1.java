@@ -5,17 +5,7 @@ import javax.swing.JOptionPane;
  * Integrante A: Dilan González
  * Integrante B: Jafeth Guevara
  * Fecha: 23/11/26
- *
- * INSTRUCCIONES:
- * Copia aquí el código completo que aparece en el documento del taller.
- * Luego ejecuta, verifica la salida y responde las preguntas en respuestas/parte1.txt
  */
-public class Parte1 {
-    public static void main(String[] args) {
-
-        // TODO: Pegar el código de la Parte 1 aquí
-        import javax.swing.JOptionPane;
-
 public class Parte1 {
     public static void main(String[] args) {
 
@@ -65,6 +55,4 @@ public class Parte1 {
     }
 }
 
-
-    }
-}
+        
